@@ -1,0 +1,21 @@
+{
+  "name": "scedit3",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sitecake/scedit3",
+  "authors": [
+    "Nikola Ivancevic <ivancevic.nikola@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.0.3",
+    "underscore":"~1.5.1"
+  }
+}
